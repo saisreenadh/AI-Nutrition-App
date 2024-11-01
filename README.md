@@ -15,3 +15,6 @@ Integrates a page-switching feature that directs users to the chatbot interface 
 ### Example Queries:
 Includes predefined input-output pairs to guide the chatbot in responding to various questions related to nutrition and health, customized to the user's profile.
 This script aims to provide a personalized chat experience, ensuring users receive tailored nutritional advice based on their specific needs and conditions.
+
+### Future Updates:
+Have it apply to more food/drink
